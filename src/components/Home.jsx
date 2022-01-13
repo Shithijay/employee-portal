@@ -63,7 +63,7 @@ class Home extends Component {
             <Container>
                 <Row>
                     <Col>
-                        <h2>Home</h2>
+                        <h2>Employee List</h2>
                         <SearchBar />
                         <EmployeeList />
                     </Col>
